@@ -5,5 +5,5 @@
 My validator in [Agoric](https://agoric.bigdipper.live/validators/agoricvaloper1cjs0sgxz709mvfyzje7tzsflyhcvrpxv04m2dl)
 If you have questions about how to stake tokens or any other questions, you can write to me at:
 TG - @godshunter, Discord - GodsHunter#5319
-## Create navigation Bot in the TG
+## Create navigation Bot in the Telegram
 - @navigationalXXXbot
