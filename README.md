@@ -1,3 +1,4 @@
+![Аватар Godshunter](https://user-images.githubusercontent.com/79540001/188178845-6c3b24d1-fc5e-4e8c-a768-c9f662920711.jpg)
 I'm full-time enthusiast, and I'm helping to many different projects.
 Here is a list of projects (to see the links on my contributions for each project - click on it).
 
@@ -8,4 +9,5 @@ Here is a list of projects (to see the links on my contributions for each projec
 - [FireFly](https://github.com/godshunter/My-Contributions/blob/main/FireFly.md)
 - [Zeitgeist](https://github.com/godshunter/My-Contributions/blob/main/Zeitgeist.md)
 - [Covalent](https://github.com/godshunter/My-Contributions/blob/main/Covalent.md)
+
 - [Bit.Country](https://github.com/godshunter/My-Contributions/blob/main/Bit.Country.md)
