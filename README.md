@@ -1,4 +1,5 @@
-![Аватар Godshunter](https://user-images.githubusercontent.com/79540001/188178845-6c3b24d1-fc5e-4e8c-a768-c9f662920711.jpg)
+![140643843-a4986972-3982-49bc-b499-3e6fb8949113](https://user-images.githubusercontent.com/79540001/188179158-cb549ab2-91d2-4155-b9c1-faf73d846985.png)
+
 I'm full-time enthusiast, and I'm helping to many different projects.
 Here is a list of projects (to see the links on my contributions for each project - click on it).
 
