@@ -6,4 +6,4 @@
 - Organized an audio [AMA](https://t.me/doubletop/31390) with the CEO of the project 
 
 - Organized a Twitter flash campaign
-- Organized AMA for CIS community. Was translated on Discord Interlay and on [Binance Live](https://www.binance.com/en/live/video?roomId=2109860)
+- Organized AMA for CIS community. Was broadcast on Discord Interlay and on [Binance Live](https://www.binance.com/en/live/video?roomId=2109860)
