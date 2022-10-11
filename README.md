@@ -5,6 +5,7 @@ Mainet validator
 - Agoric
 - Solana
 - Galaxy
+- [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper16wcltp9yx3pfhyu7zcf9r3jau9syjdl05nvhk5)
 
 Here is a list of projects (to see the links on my contributions for each project - click on it).
 
