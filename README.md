@@ -3,7 +3,7 @@
 ### I'm full-time enthusiast, and I'm helping to many different projects.
 Mainet validator
 - [Agoric](https://bigdipper.live/agoric/accounts/agoric1cjs0sgxz709mvfyzje7tzsflyhcvrpxvldgr37)
-- Solana
+- [Solana]
 - Galaxy
 - [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper16wcltp9yx3pfhyu7zcf9r3jau9syjdl05nvhk5)
 
