@@ -18,3 +18,4 @@ Here is a list of projects (to see the links on my contributions for each projec
 - [Covalent](https://github.com/godshunter/My-Contributions/blob/main/Covalent.md)
 
 - [Bit.Country](https://github.com/godshunter/My-Contributions/blob/main/Bit.Country.md)
+- [Jackal]
