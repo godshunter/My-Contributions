@@ -4,3 +4,4 @@
 With my team we translate many videos and making voice over. Also we create our own video instruction. 
 
 ### Moderate [Moonbeam Unofficial TG chat](https://t.me/MoonbeamUnofficial) and [RU Moonbeam Unofficial TG chat](https://t.me/moonbeamru_unofficial)
+Create [TG](https://t.me/EyesofEcosystem) and [Twitter](https://twitter.com/EyesOfEcosystem) channels with news about Moonbeam ecosystem
