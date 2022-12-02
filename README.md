@@ -6,7 +6,7 @@ Mainet validator
 - [Solana]()
 - Galaxy
 - [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper16wcltp9yx3pfhyu7zcf9r3jau9syjdl05nvhk5)
-- [Joystream]
+- [Joystream](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.joystream.org%3A9944#/staking)
 
 Here is a list of projects (to see the links on my contributions for each project - click on it).
 
