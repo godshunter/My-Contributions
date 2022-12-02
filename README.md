@@ -1,6 +1,6 @@
 ![140643843-a4986972-3982-49bc-b499-3e6fb8949113](https://user-images.githubusercontent.com/79540001/188179158-cb549ab2-91d2-4155-b9c1-faf73d846985.png)
 
-### I'm full-time enthusiast, and I'm helping to many different projects.
+### I'm full-time enthusiast, Validator and Ambassador. I try to help many projects and people in crypto.
 Mainet validator
 - [Agoric](https://bigdipper.live/agoric/accounts/agoric1cjs0sgxz709mvfyzje7tzsflyhcvrpxvldgr37)
 - [Solana]()
