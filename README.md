@@ -12,6 +12,7 @@ Here is a list of projects (to see the links on my contributions for each projec
 
 - [Agoric](https://github.com/godshunter/My-Contributions/blob/main/Agoric.md)
 - [Moonbeam](https://github.com/godshunter/My-Contributions/blob/main/Moonbeam.md)
+- [Moonbeam](https://medium.com/@s89224695740/how-to-delegate-your-voting-power-on-moonriver-network-to-community-delegates-de19dfeddf5e) Writting post - How to delegate your voting power on Moonriver network to Community Delegates
 - [Interlay](https://github.com/godshunter/My-Contributions/blob/main/Interlay_Kintsugi.md)
 - [Joystream](https://github.com/godshunter/My-Contributions/blob/main/JoyStream.md)
 - [FireFly](https://github.com/godshunter/My-Contributions/blob/main/FireFly.md)
