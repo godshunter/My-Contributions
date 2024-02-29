@@ -1,15 +1,17 @@
 
 
 ### I'm full-time enthusiast, Validator and Ambassador. I try to help many projects and people in crypto.
-Mainet validator
+Mainet validator active
 - [Agoric](https://bigdipper.live/agoric/accounts/agoric1cjs0sgxz709mvfyzje7tzsflyhcvrpxvldgr37)
-- [Solana]()
-- Galaxy
-- [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper16wcltp9yx3pfhyu7zcf9r3jau9syjdl05nvhk5) (shutdown)
 - [Joystream](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.joystream.org%3A9944#/staking)
 
+Mainet validator old:
+[Solana]
+[Galaxy] shutdown
+[Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper16wcltp9yx3pfhyu7zcf9r3jau9syjdl05nvhk5) (shutdown)
 Here is a list of projects (to see the links on my contributions for each project - click on it).
 
+- [Celestia]
 - [Agoric](https://github.com/godshunter/My-Contributions/blob/main/Agoric.md)
 
 - [Moonbeam](https://github.com/godshunter/My-Contributions/blob/main/Moonbeam.md)
