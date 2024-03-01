@@ -4,7 +4,7 @@
 ![image](https://github.com/godshunter/My-Contributions/assets/79540001/fe1ebada-b811-4f8e-a4a0-b5ab844ab339)
 
 
-### Team
+### Team (in proccess)
 
 
 Denis
