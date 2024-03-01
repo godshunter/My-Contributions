@@ -4,9 +4,10 @@
 ![image](https://github.com/godshunter/My-Contributions/assets/79540001/fe1ebada-b811-4f8e-a4a0-b5ab844ab339)
 
 
-### Team (in proccess)
+## Team (in proccess)
 
-Eugene
+
+### Eugene
 Analitics Lead
 
 ![image](https://github.com/godshunter/My-Contributions/assets/79540001/d23ecc60-fe85-48b0-8bb6-f997092ee99e)
@@ -21,7 +22,7 @@ EXPERIENCE:
 • Business Analytics Expert
 • Technical Analyst
 
-Alex
+### Alex
 Frontend Lead
 
 ![image](https://github.com/godshunter/My-Contributions/assets/79540001/10f57419-007d-4893-9bed-f13dcdb99f3a)
@@ -38,7 +39,8 @@ Lead
 • Vue/Nuxt Expert
 • React/Next Expert
 
-Anton
+
+### Anton
 Devops lead
 
 ![image](https://github.com/godshunter/My-Contributions/assets/79540001/6e0e46a8-15b4-495b-9353-6263de73460e)
@@ -47,7 +49,7 @@ Devops lead
 ![image](https://github.com/godshunter/My-Contributions/assets/79540001/50e9a01f-f296-427c-ba0e-65eb9a32efc7)
 
 
-Kirill
+### Kirill
 CTO
 
 ![image](https://github.com/godshunter/My-Contributions/assets/79540001/253d68b3-021f-4a48-be5a-484649f17c92)
@@ -59,8 +61,10 @@ PROJECTS:
 EXPERIENCE:
 • 7 Years of Backend Dev
 
-Victor
+
+### Victor
 Design Lead
+
 ![image](https://github.com/godshunter/My-Contributions/assets/79540001/2a4ebc15-3050-47e7-9ca6-7d3843981ee0)
 
 PROJECTS:
@@ -73,7 +77,8 @@ EXPERIENCE:
 • 15 Years of Web Design
 • UX/UI Expert
 
-Denis
+
+### Denis
 Tech Lead
 
 ![image](https://github.com/godshunter/My-Contributions/assets/79540001/5043d360-72be-423b-ad0c-4635265cc4d4)
@@ -89,7 +94,8 @@ EXPERIENCE:
 Contracts
 • Solidity Expert
 
-Anita 
+
+### Anita 
 Head of QA
 
 ![image](https://github.com/godshunter/My-Contributions/assets/79540001/0d2a1499-f313-45c1-ba0c-12381ab71209)
@@ -102,14 +108,16 @@ EXPERIENCE:
 • 4 Years in advaced QA
 • Senior QA Engineer
 
-KIRILL
+
+### KIRILL
 CEO
 
 ![image](https://github.com/godshunter/My-Contributions/assets/79540001/dae42cce-049b-42cf-bfe8-37bc44ddbd35)
 
 ![image](https://github.com/godshunter/My-Contributions/assets/79540001/87e9162d-dd1a-427b-931b-8465513ef76e)
 
-Vladimir 
+
+### Vladimir 
 Founder 
 
 
