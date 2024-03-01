@@ -9,6 +9,7 @@
 
 Denis
 Tech Lead
+
 ![image](https://github.com/godshunter/My-Contributions/assets/79540001/5043d360-72be-423b-ad0c-4635265cc4d4)
 
 PROJECTS:
@@ -25,6 +26,7 @@ Contracts
 
 Anita 
 Head of QA
+
 ![image](https://github.com/godshunter/My-Contributions/assets/79540001/0d2a1499-f313-45c1-ba0c-12381ab71209)
 
 PROJECTS:
