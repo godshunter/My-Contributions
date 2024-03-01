@@ -5,12 +5,12 @@ Mainnet validator active
 - [Agoric](https://bigdipper.live/agoric/accounts/agoric1cjs0sgxz709mvfyzje7tzsflyhcvrpxvldgr37)
 - [Joystream](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.joystream.org%3A9944#/staking)
 
-Mainnet validator old:
+### Mainnet validator old:
 [Solana]
 [Galaxy] shutdown
 [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper16wcltp9yx3pfhyu7zcf9r3jau9syjdl05nvhk5) (shutdown)
 
-Active operator:
+### Active operator:
 [Solana]
 
 
